@@ -1,0 +1,6 @@
+﻿  SortAndSearch.cpp
+c:\users\santo\documents\visual studio 2017\projects\language c++\language c++\sortandsearch.cpp(66): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santo\documents\visual studio 2017\projects\language c++\language c++\sortandsearch.cpp(75): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santo\documents\visual studio 2017\projects\language c++\language c++\sortandsearch.cpp(87): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Language C++.vcxproj -> C:\Users\santo\documents\visual studio 2017\Projects\Language C++\x64\Debug\Language C++.exe
+  Language C++.vcxproj -> C:\Users\santo\documents\visual studio 2017\Projects\Language C++\x64\Debug\Language C++.pdb (Partial PDB)
