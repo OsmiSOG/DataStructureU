@@ -1,0 +1,6 @@
+﻿  Point3.cpp
+c:\users\santo\documents\visual studio 2017\projects\point 3\point 3\point3.cpp(28): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\santo\documents\visual studio 2017\projects\point 3\point 3\point3.cpp(93): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: vea la declaración de 'getch'
+  Point 3.vcxproj -> c:\users\santo\documents\visual studio 2017\Projects\Point 3\x64\Debug\Point 3.exe
+  Point 3.vcxproj -> c:\users\santo\documents\visual studio 2017\Projects\Point 3\x64\Debug\Point 3.pdb (Partial PDB)

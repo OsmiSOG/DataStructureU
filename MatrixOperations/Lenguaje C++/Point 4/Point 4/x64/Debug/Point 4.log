@@ -1,0 +1,5 @@
+﻿  Point4.cpp
+c:\users\santo\documents\visual studio 2017\projects\point 4\point 4\point4.cpp(72): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: vea la declaración de 'getch'
+  Point 4.vcxproj -> c:\users\santo\documents\visual studio 2017\Projects\Point 4\x64\Debug\Point 4.exe
+  Point 4.vcxproj -> c:\users\santo\documents\visual studio 2017\Projects\Point 4\x64\Debug\Point 4.pdb (Partial PDB)
